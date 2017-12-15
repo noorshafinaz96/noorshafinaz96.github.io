@@ -1541,13 +1541,13 @@ body {
   text-align: center;
 }
 .cid-qDQ43eB8lP .navbar {
-  background: #ffffff;
+  background: #55b4d4;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qDQ43eB8lP .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #55b4d4;
 }
 .cid-qDQ43eB8lP a {
   font-style: normal;
@@ -1631,7 +1631,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qDQ43eB8lP .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #55b4d4;
   display: none;
   position: absolute;
   min-width: 5rem;
